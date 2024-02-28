@@ -1,9 +1,11 @@
 # azure900ia-lab4-tests
 Lab 4 do bootcamp azure ia 900
 
+Análise de Sentimento
+
 A Setença é uma avialiação do parque aquatico "Aqualinda" retirada do Google Viagens.
 
-1. Criar um fonte de linguaguem no resources do azure studio.
+1. Criar um fonte de linguagem no resources do azure studio.
 2. É testado o recurso de analise de sentimento nas sentenças de "input", que apresenta os resultados a seguir
 
 ![image_2024-02-27_193848031](https://github.com/raynivis/azure900ia-lab4-tests/assets/154099929/640fd157-f8d2-4a40-b895-7c197a4db816)
